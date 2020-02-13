@@ -1,6 +1,15 @@
 # todo
 
-A new Flutter project.
+A Flutter project for save task of user using SharedPreferences.
+
+
+## Screenshots
+
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="screenshots/home.jpg" alt="License MIT">
+  </a>
+</p>
 
 ## Getting Started
 
